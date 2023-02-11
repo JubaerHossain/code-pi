@@ -2,6 +2,7 @@
   "name": "codepi",
   "displayName": "codepi",
   "description": "this is a ai module extension to help the developer",
+  "publisher": "jubaerHossain",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
