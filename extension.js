@@ -2,7 +2,7 @@ const vscode = require('vscode');
 const axios = require('axios');
 
 const apiUrl = 'https://api.openai.com/v1/engines/autocomplete/jobs';
-const apiKey = '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';
+const apiKey = 'openai api key';
 
 async function getCompletions(query) {
   const response = await axios.post(apiUrl, {
